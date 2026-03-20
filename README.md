@@ -1,2 +1,3 @@
-# simple-quiz-platform-rlpz
-A quiz and trivia platform for modern development workflows
+# Simple Quiz Platform Rlpz
+
+A quiz and trivia platform for modern development workflows.
